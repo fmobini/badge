@@ -1,1 +1,1 @@
-# badge
+console.log("hello world")
